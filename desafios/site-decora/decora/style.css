@@ -67,8 +67,8 @@ a:hover {
 }
 
 section {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte-padrao);
@@ -99,13 +99,13 @@ section.normal {
 }
 
 
-section#img01 {
+#img01 {
     background-image: url('imagens/foto1.jpeg');
-    padding: 70px;
+    
     
 }
 
-section#img02 {
+#img02 {
     background-image: url('imagens/foto3.jpeg');
     background-position: left center;
 }
