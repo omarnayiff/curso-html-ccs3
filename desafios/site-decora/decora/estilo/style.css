@@ -101,13 +101,13 @@ section.normal {
 
 #img01 {
     background-image: url('imagens/foto1.jpeg');
-    
+    background-position: center;
     
 }
 
 #img02 {
     background-image: url('imagens/foto3.jpeg');
-    background-position: left center;
+    background-position:  center;
 }
 
 section.imagem > p {
