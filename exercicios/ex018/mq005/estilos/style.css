@@ -33,15 +33,19 @@ span#burguer:hover {
 }
 
 menu {
-    display: block;
+    display: none;
+    
 }
 
 menu > ul {
     list-style-type: none;
+    
 }
 
 menu > ul > li > a {
     display: block;
+    display: inline-block;
+    
     padding: 10px;
     text-decoration: none;
     text-align: center;
